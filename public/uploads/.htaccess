@@ -1,0 +1,4 @@
+AuthName "Brak dostepu"
+AuthType Basic
+AuthUserFile C:/xampp/htdocs/vue-laravel/private/.htpasswd
+Require valid-user

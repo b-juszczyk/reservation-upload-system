@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+
+
+body,html {
+        width: 100%;
+		height: 100%;
+		font-family: 'Titillium Web', sans-serif;
+    }
+
+nav {
+		background: rgb(29, 29, 29);
+		color: #8c8c8c !important;
+        
+       
+	}
+	body{
+		background: rgb(38,38,38);
+		color: #8c8c8c !important;
+	}
+#file{
+	background: #646464;
+	color: #dedede;
+}
+.card {
+        background: #646464;
+
+    }
+
+main {
+		flex: 1 0 auto;
+        color: #dedede;
+	}
+	footer{
+		flex-shrink: none;
+	}
+	footer #copyright{
+		background: rgb(29, 29, 29);
+		color: #8c8c8c !important;
+	}
+	#index-steps {
+        font-size: 100%;
+        transition: 0.5s;
+    }
+
+    #index-steps:hover {
+        font-size: 122%;
+        transition: 0.5s;
+
+	}
+	#first-row {
+		background-image: url('img/code.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	
+	#third-row{
+		background-image: url('img/code2.png');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
+	a.no-decoration {
+        color: #dedede !important;
+	}
+	.mobile-margin-t{
+		margin-top:3rem;
+	}
+	.footer-list-item{
+		border-left:0;
+		border-top:0;
+		border-right:0;
+	}
+	.arrow-right-animate:hover{
+		transform: rotateZ(360deg);
+		
+	}
+	.arrow-left-animate:hover{
+		transform: rotateZ(-360deg);
+		
+	}
+	.arrow-right-animate{
+		transform: rotateZ(0deg);
+		transition: 0.7s ease;
+	}
+	.arrow-left-animate{
+		transform: rotateZ(0deg);
+		transition: 0.7s ease;
+	}
+	
