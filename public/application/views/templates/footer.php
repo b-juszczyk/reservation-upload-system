@@ -7,14 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
             <div class="col-md-3 mx-auto">
                 <h5 class="text-uppercase">Kontakt</h5>
-                <p>Dr hab. inż. Jak Prokop, prof. PRz<br>
-                    Wydział Elektrotechniki i Informatyki<br>
-                    ul. W. Pola 2 (bud. B, pok. 101)<br>
-                    35-959 Rzeszów<br>
-                    Telefon: <a class="no-decoration" href="tel:0048178651384">+48 17 865 13 84</a><br>
-                    E-mail: <a class="no-decoration" href="mailto:jprokop@prz.edu.pl">jprokop@prz.edu.pl</a><br>
-                    WWW: <a class="no-decoration" href="http://jprokop.prz.edu.pl"
-                        target="blank">http://jprokop.prz.edu.pl</a>
+                <p>Lorem ipsum
 
                 </p>
             </div>
@@ -23,11 +16,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <h5 class="text-uppercase text-center">Linki</h5>
                 <ul class="list-group">
                     <li class="list-group-item bg-dark footer-list-item"><a class="no-decoration"
-                            href="http://web.prz.edu.pl">Technologie Sieci
-                            Web</a></li>
-                    <li class="list-group-item bg-dark footer-list-item"><a href="http://java.prz.edu.pl"
-                            class="no-decoration">Programowanie w języku JAVA</a></li>
-                    <li class="list-group-item bg-dark footer-list-item">Lorem ipsum</li>
+                            href="#">Lorem ipsum</a></li>
+                    <li class="list-group-item bg-dark footer-list-item"><a href="#"
+                            class="no-decoration">Lorem ipsum</a></li>
+					<li class="list-group-item bg-dark footer-list-item"><a href="#">Lorem ipsum</a></li>
                 </ul>
             </div>
             <div class="col-md-3 mx-auto text-right">
